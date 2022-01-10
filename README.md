@@ -13,5 +13,5 @@ In 2017 all the stocks we analyzed did really well, with the exception of TERP c
 
 
 
-! [Run time for 2017](C:\Users\brycle\Desktop\UofA Bootcamp\VBA\VBA_Challenge_2017.PNG)
+![Run time for 2017](C:\Users\brycle\Desktop\UofA Bootcamp\VBA\VBA_Challenge_2017.PNG)
 
