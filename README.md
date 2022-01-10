@@ -15,7 +15,6 @@ Run time for 2017
 
 <img width="200" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/95730890/148807419-683afa2a-8230-4b66-8bda-d4f8986a2543.PNG">
 
+Run time for 2018
 
-
-
-<img width="200" alt="VBA_Challenge_2017-2" src="https://user-images.githubusercontent.com/95730890/148807930-dd11e59b-98f2-45c5-8ca3-198d2ccad450.PNG">
+<img width="166" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/95730890/148808044-3563d124-24d5-4bef-9d37-84d65dad245e.PNG">
