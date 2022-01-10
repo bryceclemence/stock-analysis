@@ -13,7 +13,7 @@ In 2017 all the stocks we analyzed did really well, with the exception of TERP c
 
 Run time for 2017
 
-<img width="200" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/95730890/148807419-683afa2a-8230-4b66-8bda-d4f8986a2543.PNG">
+<img width="400" alt="VBA_Challenge_2017-3" src="https://user-images.githubusercontent.com/95730890/148808167-3ea43776-4599-4951-8821-070e602b47ac.PNG">
 
 Run time for 2018
 
