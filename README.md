@@ -13,5 +13,5 @@ In 2017 all the stocks we analyzed did really well, with the exception of TERP c
 
 
 
-![Run time for 2017](https://www.google.com/search?q=leslie%27s+pool&rlz=1C1EJFC_enUS967US967&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjtwOvA1Kf1AhVcCTQIHfzpDjsQ_AUoAHoECAIQCg&biw=1920&bih=937&dpr=1#imgrc=IYu0HAcjH46MOM)
+![Run time for 2017] (C:\Users\brycle\Desktop\UofA Bootcamp\VBA\VBA_Challenge_2017.PNG)
 
