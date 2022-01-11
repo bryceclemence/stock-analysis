@@ -27,6 +27,8 @@ Run time for 2018
 
 ### 3: Summary
 
-In summary refacoring the code made it much faster than my original code. My original code ran in little over 2.0 seconds. But my refactored code ran in 0.4 seconds and 0.085 seconds. While this doesn't seem like much of a different, the refactored code ran at least twice as fast. When in a professional role, when we're dealing with exceptionally large files of code, this would most likely make a huge difference.
+In summary refacoring the code made it much faster than my original code. My original code ran in little over 2.0 seconds. But my refactored code ran in 0.4 seconds and 0.085 seconds. While this doesn't seem like much of a different, the refactored code ran at least twice as fast. This was a huge advantage to refactoring my code, when in a professional role, when we're dealing with exceptionally large files of code, this would most likely make a huge difference.
 
 Also, refactoring the code made introduced me to some of the mistakes I made when I wrote my original script. It got my script to run the correct numbers with the correct formatting, but I had to add more lines of code to do this. So it was a great help to see how it could be done more effciently.
+
+A potential disadvantage to refactoring code is that is could have introduced a completely different way writing the script. While the code was very much like how we were taught to write the code during the class, in a real-world setting this could have caused big problems. In the short amount of time I have been learning code I've learned that there are numerous ways to write code to get the same result. If introduced to a different script we had to use it could have taken someone days to get to understand how their way can work for the code that they were given.
