@@ -14,7 +14,7 @@ In regards to refactoring my code; the refactored code ran much faster than my o
 
 Run time for original script
 
-![Original VBA Script](https://user-images.githubusercontent.com/95730890/148866965-98b0b44b-7924-403e-9642-42640fca5819.PNG)
+![Original VBA Script](https://user-images.githubusercontent.com/95730890/148867039-6435134f-d237-466a-a50d-b713a97f1e50.PNG)
 
 Run time for 2017
 
